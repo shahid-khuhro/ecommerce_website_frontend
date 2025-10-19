@@ -628,6 +628,8 @@ footer .copyright{
   padding-left: 16px;
   font-size: 16px;
   margin-right: 10px;
+  outline: none;
+  border: 1px solid black;
 }
 
 #prodetails .single-pro-details button{
@@ -1283,4 +1285,3 @@ footer .copyright{
   }
 
 }
-
